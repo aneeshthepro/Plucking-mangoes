@@ -1,1 +1,2 @@
-#white hat jr
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
